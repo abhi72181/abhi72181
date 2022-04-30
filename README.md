@@ -46,7 +46,7 @@
 - 
 ### **Also find me on**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abhishek-rishikant-pandey/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhihits0404@gmail.com]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rishikant-pandey/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhihits0404@gmail.com]
 <!--
 **surajahirwar/surajahirwar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
