@@ -49,11 +49,10 @@
 abhihits0404@gmail.com]
 
 <!-- **surajahirwar/surajahirwar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile. -->
-Here are some ideas to get you started:
 
-- :seedling: I’m currently learning ... Full Stack Web Development (MERN)
-- :dancers: I’m looking to collaborate on ... Some amazing Projects
-- :mailbox: How to reach me: ...abhihits0404@gmail.com
+- :seedling: I’m currently learning Full Stack Web Development (MERN)
+- :dancers: I’m looking to collaborate on Some amazing Projects
+- :mailbox: How to reach me: abhihits0404@gmail.com
   
 
 
