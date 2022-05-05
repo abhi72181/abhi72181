@@ -43,19 +43,17 @@
 - Quora :iphone::
 - Exploring :earth_asia::
 - traveling :airplane::
-- 
 ### **Also find me on**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rishikant-pandey/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">abhihits0404@gmail.com]
-<!--
-**surajahirwar/surajahirwar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rishikant-pandey/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px">
+abhihits0404@gmail.com]
+
+<!-- **surajahirwar/surajahirwar** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile. -->
 Here are some ideas to get you started:
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
-- :dancers: I’m looking to collaborate on ...
-- :thinking_face: I’m looking for help with ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
--->
+
+- :seedling: I’m currently learning ... Full Stack Web Development (MERN)
+- :dancers: I’m looking to collaborate on ... Some amazing Projects
+- :mailbox: How to reach me: ...abhihits0404@gmail.com
+  
+
+
