@@ -23,6 +23,10 @@
 
 **Projects**
 
+<a href="https://github.com/abhi72181/pizza-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=pizza-shop" />
+</a> &nbsp;
+
 <a href="https://github.com/abhi72181/meanbuy_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=meanbuy_clone" />
 </a> &nbsp;
