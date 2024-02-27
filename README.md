@@ -21,9 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi72181&show_icons=true&theme=radical" />
 </a> &nbsp; <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi72181&show_icons=true&theme=radical" />
-</a> &nbsp; <a href="#">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhi72181&theme=rogue" height="400" />
-</a>
+
 
 ### **Projects**
 
