@@ -25,17 +25,15 @@
 
 ### **Projects**
 
-| [Pizza Shop](https://github.com/abhi72181/pizza-shop) | [Meanbuy Clone](https://github.com/abhi72181/meanbuy_clone) |
+|[Fabbag Clone](https://github.com/abhi72181/fabbag-clone) | [Meanbuy Clone](https://github.com/abhi72181/meanbuy_clone) |
 | :----------------------------------------------------: | :--------------------------------------------------------: |
-| [![Pizza Shop](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=pizza-shop)](https://github.com/abhi72181/pizza-shop) | [![Meanbuy Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=meanbuy_clone)](https://github.com/abhi72181/meanbuy_clone) |
+| [![Fabbag Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=fabbag-clone)](https://github.com/abhi72181/fabbag-clone) | [![Meanbuy Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=meanbuy_clone)](https://github.com/abhi72181/meanbuy_clone) |
 
 | [Bewakoof Clone](https://github.com/abhi72181/Bewakoof_clone) | [Mamaearth Clone](https://github.com/abhi72181/mamaearth-clone) |
 | :------------------------------------------------------------: | :----------------------------------------------------------: |
 | [![Bewakoof Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=Bewakoof_clone)](https://github.com/abhi72181/Bewakoof_clone) | [![Mamaearth Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=mamaearth-clone)](https://github.com/abhi72181/mamaearth-clone) |
 
-| [Fabbag Clone](https://github.com/abhi72181/fabbag-clone) |
-| :--------------------------------------------------------: |
-| [![Fabbag Clone](https://github-readme-stats.vercel.app/api/pin/?username=abhi72181&repo=fabbag-clone)](https://github.com/abhi72181/fabbag-clone) |
+
 
 ### **Interests**
 
